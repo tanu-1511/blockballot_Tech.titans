@@ -43,4 +43,20 @@ BlockBallot is a blockchain-based voting platform tailored for student elections
 
 ## 🖼️ UI Screenshots
 
+---
+
+## 🖌️ Figma Design
+
+Check out the UI/UX prototype we designed using Figma:
+
+👉 [View Figma Design](https://www.figma.com/make/3VltR6ICjavip58YpIAYum/Blockchain-Student-Voting-System-Homepage?node-id=0-1&t=ya3JL0rZQM803pzp-1)
+
+---
+
+## ⚙️ Smart Contract (Solidity)
+
+We implemented the core logic using Solidity on the Remix IDE:
+
+👉 [View Remix Contract](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js)
+
 
