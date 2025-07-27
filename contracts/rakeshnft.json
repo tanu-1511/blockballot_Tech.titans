@@ -1,1 +1,11 @@
+{
+  "name": "Vote Receipt - Citizen of BlockBallot",
+  "description": "This NFT certifies that you participated in the election.",
+  "image": "ipfs://QmYourGamifiedImageHashHere",
+  "attributes": [
+    { "trait_type": "Voting Badge", "value": "Democracy Defender" },
+    { "trait_type": "Candidate Chosen", "value": "Meera Iyer" },
+    { "trait_type": "Voter Level", "value": "Level 1" }
+  ]
+}
 
